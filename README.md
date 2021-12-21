@@ -4,7 +4,8 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](development.j@Outlook.com)
 
 ![Jailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtondomingos&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtondomingos)](https://github.com/jailtondomingos/github-readme-stats)
+
+
 
 ## Tecnologias que eu uso no meu dia
 
@@ -17,6 +18,7 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"</img>  
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtondomingos&hide=pascal&layout=compact)](https://github.com/jailtondomingos/github-readme-stats)
 
 Entusiasta de tecnologia buscando o aprimoramento na ciência de big data e inteligência analítica. Comprometido com a segurança e privacidade dos dados.
 

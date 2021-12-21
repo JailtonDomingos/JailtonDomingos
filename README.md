@@ -4,6 +4,7 @@
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](development.j@Outlook.com)
 
 ![Jailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtondomingos&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtondomingos)](https://github.com/jailtondomingos/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 

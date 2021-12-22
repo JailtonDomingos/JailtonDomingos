@@ -1,13 +1,27 @@
-### Olá eu sou o Jailton Domingos 👋
+### Hello i'm Jailton Domingos 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jailtondomingos/)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](development.j@Outlook.com)
+
+## Public information
+
+My name is Jailton Domingos. I currently live in Santa Catarina, Brazil and my work is on Radiology Clinical software. 
+
+## Detailed information
+
+* **Name**: Jailton Domingos
+* **Age**: 24
+* **Living in**: Santa Catarina, Brazil
+* **Stack**: Java - JavaScript - React
+* **University**: Bachelor's Degree in Big Data and Analytical Intelligence in Progress.
+
+##
 
 ![Jailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtondomingos&show_icons=true&theme=tokyonight)
 
 
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my day
 
 <div style="display: inline-block"> <br/>
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"</img>  
@@ -20,9 +34,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtondomingos&hide=pascal&layout=compact)](https://github.com/jailtondomingos/github-readme-stats)
 
-Entusiasta de tecnologia buscando o aprimoramento na ciência de big data e inteligência analítica. Comprometido com a segurança e privacidade dos dados.
+Technology enthusiast seeking to improve the science of big data and analytic intelligence. Committed to data security and privacy.
 
-## Próximas tecnologias a serem aprimoradas
+## Next technologies to be improved
 
 <div style="display: inline-block"> <br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</img>  

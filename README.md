@@ -30,6 +30,8 @@ My name is Jailton Domingos. I currently live in Santa Catarina, Brazil and my w
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"</img>
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</img>  
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"</img>  
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"</img>
+  
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtondomingos&hide=pascal&layout=compact)](https://github.com/jailtondomingos/github-readme-stats)
@@ -40,7 +42,12 @@ Technology enthusiast seeking to improve the science of big data and analytic in
 
 <div style="display: inline-block"> <br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"</img>  
-  <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"</img>  
+  <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"</img> 
+  <img align="center" alt="Google-Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"</img>
+ <img align="center" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"</img> 
+  <img align="center" alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"</img> 
+  	
+  
 </div><br/>
 <!--
 **JailtonDomingos/JailtonDomingos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -34,7 +34,7 @@ My name is Jailton Domingos. I currently live in Santa Catarina, Brazil and my w
   
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtondomingos&hide=pascal&layout=compact)](https://github.com/jailtondomingos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jailtondomingos&hide=pascal&layout=compact&theme=tokyonight)](https://github.com/jailtondomingos/github-readme-stats)
 
 Technology enthusiast seeking to improve the science of big data and analytic intelligence. Committed to data security and privacy.
 

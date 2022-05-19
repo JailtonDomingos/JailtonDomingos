@@ -17,7 +17,7 @@ My name is Jailton Domingos. I currently live in Santa Catarina, Brazil and my w
 
 ##
 
-!-![Jailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtondomingos&show_icons=true&theme=tokyonight)
+![Jailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtondomingos&show_icons=true&theme=tokyonight)
 
 
 
